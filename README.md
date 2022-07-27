@@ -3,4 +3,4 @@ Crud Local Storage HTML/Javascript/Css
 
 Link:
 
-dionatass.github.io/crud-v1/
+https://dionatass.github.io/CRUD-V1/
