@@ -1,6 +1,6 @@
 
 
-![CRUD](https://github.com/DionataSS/DionataSS/blob/main/CRUDimage.png)
+![CRUD](https://github.com/DionataSS/CRUD-V1/blob/master/crudvideo.gif)
 
 
 ## Crud made with HTML / JavaScript / CSS and use Local Storage 
